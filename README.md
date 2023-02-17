@@ -12,11 +12,18 @@ The dataset will be cleaned and preprocessed for regression analysis via Support
 
 These correlations will be tested on test datasets for accuracy in predictions, and against statistical methods such as R-Squared, RMSE, and MAPE.
 
-References:
+**References:**
+
 Abreu, M. et al. CO2 absorber intensification by high liquid flux operation. GHGT-16. 2022.
+
 Hazare, S.R. et al. Correlating Interfacial Area and Volumetric Mass Transfer Coefficient in Bubble Column with the Help of Machine Learning Methods. IeCR. 2022.
+
 Song, D. Effect of Liquid Viscosity on Liquid Film Mass Transfer for Packings. PhD Dissertation. 2017.
+
 Song, D. et al. Mass Transfer Parameters for Packings: Effect of Viscosity. IeCR. 2018.
+
 Tsai, R. Mass Transfer Area of Structured Packing. PhD Dissertation. 2010.
+
 Wang, C. Mass Transfer Coefficients and Effective Area of Packing. PhD Dissertation. 2015.
+
 Zakeri, A. et al. Experimental Investigation of Pressure Drop, Liquid Hold-Up and Mass Transfer Parameters in a 0.5 m Diameter Absorber Column. GHGT-10. 2011.
