@@ -1,4 +1,4 @@
-# FinalProjectSDS384
+# FinalProjectSDS384, Team 7
 
 **Goals**
 
